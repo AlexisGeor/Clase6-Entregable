@@ -9,5 +9,5 @@
 - Conexiona al Servidor 
 
 **Comando para ejecutar:** 
-
+```npm i -g nodemon ```
 ```nodemon index.js```
