@@ -10,4 +10,4 @@
 
 **Comando para ejecutar:** 
 
-```node index.js```
+```nodemon index.js```
