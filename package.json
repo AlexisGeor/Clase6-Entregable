@@ -1,0 +1,22 @@
+{
+  "name": "clase-4---entregable---copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisGeor/Clase-4-Coderhouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisGeor/Clase-4-Coderhouse/issues"
+  },
+  "homepage": "https://github.com/AlexisGeor/Clase-4-Coderhouse#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
